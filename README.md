@@ -1,4 +1,6 @@
-what do you do with 15 years of your writing history when LLMs hit the scene? A chatbot!
+# SwizBot, a chatbot based on 15 years of Swizec's blog
+
+What do you do with 15 years of your writing history when LLMs hit the scene? A chatbot!
 
 Meet SwizBot, a friendly chatbot that knows every article I've published on swizec.com since 2007 and is ready to answer your questions. You can try it out at [swizbot-ui.vercel.app](https://swizbot-ui.vercel.app), if you promise to be nice to my OpenAI credits.
 
